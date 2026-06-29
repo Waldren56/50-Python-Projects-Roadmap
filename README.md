@@ -10,7 +10,7 @@ A repository documenting a full progression of Python projects, from solid funda
 
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 11 | [To-Do list with file persistence](./11-todo-file/) | `open()`, text file handling | ✅ Done |
+| 11 | [To-Do list with file persistence](./11%20To-Do%20list%20with%20file%20persistence) | `open()`, text file handling | ✅ Done |
 | 12 | [Contact book (terminal CRUD)](./12-rubrica/) | dictionaries, JSON persistence | ✅ Done |
 | 13 | [Multiple-choice quiz with scoring](./13-quiz/) | nested data structures, `try/except` | ✅ Done |
 | 14 | Unit converter | dictionaries, modular functions | ⬜ To do |
