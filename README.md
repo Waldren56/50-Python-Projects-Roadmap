@@ -1,6 +1,6 @@
 # 50 Python Projects — Learning Path
 
-A repository documenting a full progression of Python projects, from solid fundamentals through complex systems and production deployment. Each project introduces new concepts on top of the previous one — the folder structure and commit history together tell the story of the learning path.
+A progressive collection of 40 Python projects (levels 2–5), built one at a time from file I/O and data structures through machine learning, web apps, and cloud deployment. Each project is self-contained, documented, and part of a single learning arc tracked via commit history.
 
 > Note: Level 1 projects (1-10, absolute fundamentals) are not included in this repo. The progression documented here starts at level 2.
 
@@ -106,3 +106,7 @@ python main.py
 ```
 
 Extras (Docker, AWS) will be applied to the more advanced projects once they're completed, rather than studied in isolation.
+
+---
+
+**GitHub:** [github.com/simone-nicholas](https://github.com/simone-nicholas)
