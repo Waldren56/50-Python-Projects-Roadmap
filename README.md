@@ -10,11 +10,11 @@ A repository documenting a full progression of Python projects, from solid funda
 
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 11 | [To-Do list with file persistence](./11%20To-Do%20list%20with%20file%20persistence) | `open()`, text file handling | ✅ Done |
-| 12 | [Contact book (terminal CRUD)](./12-rubrica/) | dictionaries, JSON persistence | ✅ Done |
+| 11 | [To-Do list with file persistence](./11-todo-file/) | `open()`, text file handling | ✅ Done |
+| 12 | [Contact book (terminal CRUD)](./12-contact-book/) | dictionaries, JSON persistence | ✅ Done |
 | 13 | [Multiple-choice quiz with scoring](./13-quiz/) | nested data structures, `try/except` | ✅ Done |
-| 14 | Unit converter | dictionaries, modular functions | ⬜ To do |
-| 15 | Text file analyzer | `collections.Counter` | ⬜ To do |
+| 14 | [Unit converter](./14-unit-converter/) | dictionaries, modular functions | ✅ Done |
+| 15 | [Text file analyzer](./15-text-analyzer/) | `collections.Counter` | ✅ Done |
 | 16 | Simple web scraper | `requests`, `BeautifulSoup` | ⬜ To do |
 | 17 | QR code generator | `qrcode` library | ⬜ To do |
 | 18 | Digital terminal clock | `datetime`, `time` | ⬜ To do |
@@ -72,17 +72,25 @@ A repository documenting a full progression of Python projects, from solid funda
 python-projects/
 ├── README.md
 ├── 11-todo-file/
-│   └── main.py
-├── 12-rubrica/
-│   └── main.py
+│   ├── main.py
+│   └── README.md
+├── 12-contact-book/
+│   ├── main.py
+│   └── README.md
 ├── 13-quiz/
-│   └── main.py
+│   ├── main.py
+│   └── README.md
 ├── 14-unit-converter/
-│   └── ...
+│   ├── main.py
+│   └── README.md
+├── 15-text-analyzer/
+│   ├── main.py
+│   ├── text.txt
+│   └── README.md
 └── ...
 ```
 
-Each folder contains the project's code and, where useful, a short local README with project-specific notes.
+Each folder contains the project code, a local README with description and skills, and any required data files.
 
 ## Progress checkpoints
 
