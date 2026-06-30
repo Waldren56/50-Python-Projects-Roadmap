@@ -1,5 +1,0 @@
-[project]
-name = "11-to-do-list-with-file-persistence"
-version = "0.1.0"
-requires-python = ">=3.14"
-dependencies = []
