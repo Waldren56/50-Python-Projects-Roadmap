@@ -8,18 +8,18 @@ A progressive collection of 40 Python projects (levels 2–5), built one at a ti
 
 ### 🟡 Level 2 — Solid foundations
 
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 11 | [To-Do list with file persistence](./11-todo-file/) | `open()`, text file handling | ✅ Done |
-| 12 | [Contact book (terminal CRUD)](./12-contact-book/) | dictionaries, JSON persistence | ✅ Done |
-| 13 | [Multiple-choice quiz with scoring](./13-quiz/) | nested data structures, `try/except` | ✅ Done |
-| 14 | [Unit converter](./14-unit-converter/) | dictionaries, modular functions | ✅ Done |
-| 15 | [Text file analyzer](./15-text-analyzer/) | `collections.Counter` | ✅ Done |
-| 16 | Simple web scraper | `requests`, `BeautifulSoup` | ⬜ To do |
-| 17 | QR code generator | `qrcode` library | ⬜ To do |
-| 18 | Digital terminal clock | `datetime`, `time` | ⬜ To do |
-| 19 | CSV → JSON converter | `csv`, `json` | ⬜ To do |
-| 20 | Birthday reminder bot | `datetime`, conditional logic | ⬜ To do — **checkpoint** |
+| # | Project                                             | Skills | Status                   |
+|---|-----------------------------------------------------|--------|--------------------------|
+| 11 | [To-Do list with file persistence](./11-todo-file/) | `open()`, text file handling | ✅ Done                   |
+| 12 | [Contact book (terminal CRUD)](./12-contact-book/)  | dictionaries, JSON persistence | ✅ Done                   |
+| 13 | [Multiple-choice quiz with scoring](./13-quiz/)     | nested data structures, `try/except` | ✅ Done                   |
+| 14 | [Unit converter](./14-unit-converter/)              | dictionaries, modular functions | ✅ Done                   |
+| 15 | [Text file analyzer](./15-text-analyzer/)           | `collections.Counter` | ✅ Done                   |
+| 16 | [Simple web scraper](./16-web-scraper/)             | `requests`, `BeautifulSoup` | ✅ Done                   |
+| 17 | QR code generator                                   | `qrcode` library | ⬜ To do                  |
+| 18 | Digital terminal clock                              | `datetime`, `time` | ⬜ To do                  |
+| 19 | CSV → JSON converter                                | `csv`, `json` | ⬜ To do                  |
+| 20 | Birthday reminder bot                               | `datetime`, conditional logic | ⬜ To do — **checkpoint** |
 
 ### 🟠 Level 3 — Intermediate
 
