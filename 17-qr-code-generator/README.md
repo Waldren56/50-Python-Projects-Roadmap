@@ -1,15 +1,16 @@
 # 17 — QR Code Generator
 
-A terminal tool that validates a URL and generates a custom QR code image. Uses inverted colors (white QR on a black background) to give the code a unique look while remaining scannable.
+A terminal tool that validates a URL and generates a custom QR code saved as a `.png` file. Validates that the URL is reachable before generating — first with a lightweight HEAD request, then falling back to GET if needed. Uses inverted colors (white on black) for a unique look while remaining fully scannable.
 
 ## Skills used
 
-- HTTP requests with `requests.head()` and `requests.get()`
-- URL validation with `response.ok`
-- Exception handling with `RequestException`
-- User input validation with loops
-- QR code generation using the `qrcode` library
-- File creation and image saving as `.png`
+- URL validation with dual-strategy HTTP requests (`HEAD` → `GET` fallback)
+- Exception handling with `requests.RequestException`
+- Automatic protocol prepending (`https://`) if omitted by the user
+- User input validation with `while True` loops and `.strip()`
+- QR code generation with explicit `QRCode` configuration (version, error correction, box size, border)
+- Image file creation and saving as `.png`
+- Docstrings on every function
 
 ## How to run
 
