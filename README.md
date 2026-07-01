@@ -16,7 +16,7 @@ A progressive collection of 40 Python projects (levels 2–5), built one at a ti
 | 14 | [Unit converter](./14-unit-converter/)              | dictionaries, modular functions | ✅ Done                   |
 | 15 | [Text file analyzer](./15-text-analyzer/)           | `collections.Counter` | ✅ Done                   |
 | 16 | [Simple web scraper](./16-web-scraper/)             | `requests`, `BeautifulSoup` | ✅ Done                   |
-| 17 | QR code generator                                   | `qrcode` library | ⬜ To do                  |
+| 17 | [QR code generator](./17-qr-code-generator)         | `qrcode` library | ✅ Done                  |
 | 18 | Digital terminal clock                              | `datetime`, `time` | ⬜ To do                  |
 | 19 | CSV → JSON converter                                | `csv`, `json` | ⬜ To do                  |
 | 20 | Birthday reminder bot                               | `datetime`, conditional logic | ⬜ To do — **checkpoint** |
