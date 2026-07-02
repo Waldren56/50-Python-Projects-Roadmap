@@ -1,6 +1,8 @@
 # 50 Python Projects — Learning Path
 
-A progressive collection of 40 Python projects (levels 2–5), built one at a time from file I/O and data structures through machine learning, web apps, and cloud deployment. Each project is self-contained, documented, and part of a single learning arc tracked via commit history.
+Goal: Become a production-ready Python Backend Developer by progressively building real-world projects covering APIs, databases, automation, testing, cloud deployment, and software architecture.
+
+A progressive collection of 50 Python projects (levels 2–5), built one at a time from file I/O and data structures through machine learning, web apps, and cloud deployment. Each project is self-contained, documented, and part of a single learning arc tracked via commit history.
 
 > Note: Level 1 projects (1-10, absolute fundamentals) are not included in this repo. The progression documented here starts at level 2.
 
