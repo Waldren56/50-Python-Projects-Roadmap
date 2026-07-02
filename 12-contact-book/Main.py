@@ -116,7 +116,8 @@ def write_json(data):
         json.dump(data, f, indent=4)
 
 def print_menu():
-    print('\n===       MENU | TERMINAL CRUD     ===\n'
+    print('\n======================================\n'
+          '===       MENU | TERMINAL CRUD     ===\n'
           '=== Type 1 - Add a new contact     ===\n'
           '=== Type 2 - Remove a contact      ===\n'
           '=== Type 3 - Edit a contact        ===\n'
