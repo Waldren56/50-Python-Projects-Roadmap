@@ -20,23 +20,23 @@ A progressive collection of 50 Python projects (levels 2–5), built one at a ti
 | 16 | [Simple web scraper](./16-web-scraper/)             | `requests`, `BeautifulSoup` | ✅ Done                   |
 | 17 | [QR code generator](./17-qr-code-generator)         | `qrcode` library | ✅ Done                  |
 | 18 | [Digital terminal clock](./18-digital-clock)        | `datetime`, `time` | ✅ Done                  |
-| 19 | [CSV → JSON converter]()                            | `csv`, `json` | ⬜ To do                  |
-| 20 | [Date reminder bot]()                               | `datetime`, conditional logic | ⬜ To do — **checkpoint** |
+| 19 | [CSV → JSON converter](./19-csv-json-converter)     | `csv`, `json` | ✅ Done                  |
+| 20 | [Date reminder bot](./20-date-reminder-bot)         | `datetime`, conditional logic | ✅ Done — **checkpoint** |
 
 ### 🟠 Level 3 — Intermediate
 
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 21 | Personal expense tracker with charts | `pandas`, `matplotlib` | ⬜ To do |
-| 22 | Weather app (external API) | `requests`, API keys, JSON | ⬜ To do |
-| 23 | Calculator with GUI | `tkinter` | ⬜ To do |
-| 24 | Hangman game | OOP, game state management | ⬜ To do |
-| 25 | Habit tracker | `sqlite3` | ⬜ To do |
-| 26 | Chart generator from CSV | `pandas`, `matplotlib`/`seaborn` | ⬜ To do |
-| 27 | Login system with password hashing | `hashlib`, input validation | ⬜ To do |
-| 28 | Terminal mini-blog (DB-backed CRUD) | `sqlite3`, OOP | ⬜ To do |
-| 29 | Simple Telegram bot | `python-telegram-bot`, APIs | ⬜ To do |
-| 30 | PDF ↔ text/image converter | `PyPDF2`, `Pillow` | ⬜ To do — **checkpoint** |
+| # | Project                                                               | Skills | Status |
+|---|-----------------------------------------------------------------------|--------|--------|
+| 21 | [Personal expense tracker with charts](./21-personal-expense-tracker) | `pandas`, `matplotlib` | ⬜ To do |
+| 22 | Weather app (external API)                                            | `requests`, API keys, JSON | ⬜ To do |
+| 23 | Calculator with GUI                                                   | `tkinter` | ⬜ To do |
+| 24 | Hangman game                                                          | OOP, game state management | ⬜ To do |
+| 25 | Habit tracker                                                         | `sqlite3` | ⬜ To do |
+| 26 | Chart generator from CSV                                              | `pandas`, `matplotlib`/`seaborn` | ⬜ To do |
+| 27 | Login system with password hashing                                    | `hashlib`, input validation | ⬜ To do |
+| 28 | Terminal mini-blog (DB-backed CRUD)                                   | `sqlite3`, OOP | ⬜ To do |
+| 29 | Simple Telegram bot                                                   | `python-telegram-bot`, APIs | ⬜ To do |
+| 30 | PDF ↔ text/image converter                                            | `PyPDF2`, `Pillow` | ⬜ To do — **checkpoint** |
 
 ### 🔴 Level 4 — Advanced
 
